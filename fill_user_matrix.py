@@ -6,7 +6,6 @@ https://nipunbatra.github.io/blog/2017/recommend-keras.html
 '''
 
 'change little code'
-'change little code 2'
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error
